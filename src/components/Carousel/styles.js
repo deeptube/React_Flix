@@ -44,6 +44,7 @@ export const VideoCardList = styled.ul`
   display: flex;
   overflow-x: auto;
   flex-direction: row;
+  max-height: 230px;
 
   ::-webkit-scrollbar {
     width: 12px;
